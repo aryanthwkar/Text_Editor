@@ -25,7 +25,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/text-editor.git
+git clone https://github.com/aryanthwkar/text-editor.git
 
 Navigate to the project directory:
 
